@@ -1,0 +1,913 @@
+{
+  "data": {
+    "category_list": [
+      "political-pulse",
+      "sports",
+      "business",
+      "technology",
+      "education"
+    ],
+    "news_list": [
+      {
+        "id": "7d7c62585c4542509af91e8623a03df0",
+        "title": "Mumbai Indians showcase perfect performance to go top of the table and send Rajasthan Royals out",
+        "description": " Mumbai Indians beat Rajasthan Royals by six wickets in Jaipur . Rohit Sharma and Ryan Rickelton set the pace up front with scores of 217/2 . Hardik Pandya-led team looked every bit an outfit that was coming into the game on the back of five successive wins . MI's bowling made short work of the hapless hosts as they bowled out for 217-2 . Fazalhaq Farooqi gave Rohit a late scare",
+        "urlToImage": "https://images.indianexpress.com/2025/05/MI-RR-5.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/mumbai-indians-perfect-top-of-table-rajasthan-knocked-out-ipl-9977789/",
+        "category": "sports",
+        "date": "May 02 2025"
+      },
+      {
+        "id": "cc7d3914e7004ee68079846eeacbcbb5",
+        "title": "India\u2019s media and entertainment industry can grow over $100 billion in next decade: Mukesh Ambani",
+        "description": " Mukesh Ambani said India\u2019s media and entertainment industry is today valued at $28 billion . He said to achieve this, India should invest in state-of-the-art content clusters across the country . \u201cIn an increasingly turbulent and uncertain world, our stories give the hope of a better future with their power to unite, inspire, and enrich,\u201d he said . The fusion of storytelling and digital technologies is again unique to India, which has multiplied the impact",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Mukesh-ambani.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/indias-media-and-entertainment-industry-can-grow-over-100-billion-in-next-decade-mukesh-ambani-9977769/",
+        "category": "business",
+        "date": "May 02 2025"
+      },
+      {
+        "id": "bf0a55df6a1145d4bdfcaf24531319a5",
+        "title": "RJD\u2019s Manoj Jha: \u2018A reluctant govt\u2019s agreement to a caste census is not the destination. It is the start. Oppn is alert, will watch it closely\u2019",
+        "description": "RJD has been highlighting Bihar\u2019s efforts in sustaining the call for caste enumeration, with the state conducting a caste survey and releasing its findings in October 2023 at a time when the Narendra Modi government was a part of the state government; it has said that they have used derogatory language to address the anomalies in your development plan. It is not clear whether or not this decision will be taken by the",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Untitled-design-48.png?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/rjd-manoj-jha-caste-census-bihar-modi-9977341/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "79092d80c6a145158317e8890a327e4c",
+        "title": "CWG taint fading, but is a comeback too wishful for Suresh Kalmadi, the face of Pune, friend of Pawar to Gandhis?",
+        "description": "India\u2019s Supreme Court has ruled that Suresh Kalmadi, who was arrested in connection with a corruption case linked to the 2010 Commonwealth Games, is not eligible to join the Congress party after his release from prison. The Delhi High Court has granted him bail for six months and said he will be sentenced to three years in prison before the end of the 2018 Lok Sabha elections. He had been jailed for nine months but remains in prison.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Suresh-Kalmadi.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/suresh-kalmadi-pune-congress-veteran-cwg-case-sharad-pawar-9977262/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "d3682ca9948746f18f8c41179c67436a",
+        "title": "Caste census: Stalled Mandal report to still-born SECC, BJP readies its case against Congress",
+        "description": "Union Minister Ashwini Vaishnaw stressed that the BJP government had taken the call to count castes in the Census, but used it merely as \u201ca political tool\u201d, a source has told BBC Radio India on Wednesday. The BJP is working on a multi-pronged strategy to counter any projection of this as a vindication of the Opposition\u2019s stand. \u2018The exercise will be the first ever caste census post-Independ",
+        "urlToImage": "https://images.indianexpress.com/2025/05/narendra-modi.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/caste-census-mandal-report-secc-bjp-case-against-congress-9976996/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "e159f66c1e354896bf99d918a138242e",
+        "title": "New Mumbai Police chief joins Devendra Fadnavis\u2019s expanding inner circle in choice posts",
+        "description": "Vivek Phansalkar\u2019s victory in the 26/11 Mumbai attacks, he has been a man on a mission to help his alliance partners get back on track with their plans for the next five years. The Prime Minister\u2019s Office (CMO) has appointed Fadnavis as its new chief minister and is seen to have a good rapport with the bureaucracy at risk of upsetting his alliance partner partners.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/mumbai-commissioner.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/new-mumbai-police-chief-devendra-fadnavis-maharashtra-9976841/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "86851adcb66d4bcba7cf148feeabe751",
+        "title": "CWC to meet today to discuss Pahalgam, caste census; likely to pass resolutions",
+        "description": "Opposition leader Rahul Gandhi has said he will meet with PM Narendra Modi in Delhi on Friday to discuss how the party can \u201cown the narrative\u201d on the first census of the country\u2019s decadal census, according to sources who say it is the biggest political issue before the country and that they are seeking action against Pakistan over the terror attack or the government\u2019s decision to remove the 50 quota cap on reservation.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Rahul-Gandhi-Caste-Census.jpeg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/congress-caste-census-cwc-meet-9976451/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "aede9471f9f64392908053f3160c468a",
+        "title": "\u2018Half Akhilesh, half Ambedkar\u2019: Why an SP poster has BJP, BSP fuming",
+        "description": "Bahujan Samaj Party (BSP) and the BJP, which have accused the SP of insulting the architect of the Constitution. The poster was put up outside the party headquarters in Lucknow on Monday by the frontal organisation Samajwadi Lohia Vahini. \u201cThe SP government renamed districts that were named after Ambedkar and Kanshi Ram while top SP leaders referred to the BSP government-built ambedkar",
+        "urlToImage": "https://images.indianexpress.com/2025/05/half-Akhilesh-half-Ambedkar.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/half-akhilesh-half-ambedkar-sp-poster-bjp-bsp-fuming-9976402/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "c5f5cf05903e4f1fac529d4a0f328358",
+        "title": "Rise and fall of Bengal CPI(M) veteran: Face in Jyoti Basu, Buddhadeb Cabinets to expulsion",
+        "description": "Asansol minister of state for vocational education, he has been expelled from the CPI(M)-led Left Front in an allegation that he subjected a woman to sexual harassment by sending her offensive and inapproprate messages on social media. It is not yet clear whether Bansa Gopal Chowdhury was involved in the complaint lodged by a female member of the party.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Untitled-design-46.png?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/bengal-cpim-veteran-jyoti-basu-buddhadeb-cabinet-9975188/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "40d172f1dead41f4a4ee2655717a6548",
+        "title": "Today in Politics: Caste census is back in focus, with an unexpected BJP move",
+        "description": "India\u2019s social fabric, which is not disturbed by politics, to be included in the census of a Congress-controlled state. It will also make it clear that caste enumeration should be considered as a political tool rather than surveys, Union Minister Ashwini Vaishnaw told the BBC on Wednesday. He added: \u201cIt is an important step forward for all parties involved in the process of setting up a census.\u201d",
+        "urlToImage": "https://images.indianexpress.com/2025/05/caste-census.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/centre-announces-caste-census-bjp-congress-9975958/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "7856e6ee9e5e42ab81efba0618ac0d22",
+        "title": "Why now? On sure footing, Govt changes course to take the big step, announces Caste Census",
+        "description": "The BJP\u2019s leadership has been criticised for using caste census as a political tool, but it is not clear whether the government needs numbers for all welfare activities or those lifting castes and communities which are lagging behind in polls. It also appears to have been ahead of the Maharashtra and Haryana Assembly elections when the Opposition had raised the pitch on caste-based census. \u2018The Government of India decided it was a matter of policy not",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Narendra-Modi.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/caste-census-bjp-adapting-puncturing-opposition-politics-ready-for-numbers-9975318/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "53b25d9ca66a4d2cb6a0fd904abd753e",
+        "title": "The caste surveys before: What Bihar, Telangana and Karnataka reports found",
+        "description": "The BJP-led central government has announced its intention to include caste in the forthcoming census of Bihar, according to a poll conducted by India\u2019s Prime Minister Narendra Modi on Wednesday. It is not yet clear how many castes will be included in the new census, but there are more than a third of those who live on around Rs 200 a day per year. There are three states that have already passed a unanimous resolution seeking a caste",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Untitled-design-47.png?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/caste-survey-bihar-telangana-karnataka-9975221/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "838bfacc17de401083589e74562a56fd",
+        "title": "The last caste census was in 1931. A look back at its findings",
+        "description": "The Union Cabinet Committee on Political Affairs (CCPA) has announced that it will launch a caste census in India, the first such exercise since the 1901 Census was conducted by the colonial British government and is being carried out by the Congress-led UPA government for more than 20 years. It is not yet clear how many votes castes have been counted in the 1931 census, but some of them are expected to be taken into account.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/caste_b48063.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/modi-govt-caste-census-exercise-1931-9974935/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "e82861ebffec4b4b8a451d91bc64544d",
+        "title": "21 Manipur NDA MLAs write to Centre seeking \u2018popular govt\u2019 in state: \u2018Only means to bring peace and normalcy\u2019",
+        "description": "Narendra Modi and the Union Home Minister Amit Shah demanding a popular government in Manipur after over two months of President\u2019s Rule was imposed with effect from 13th February, 2025. The letters state: \u201cThat the people of Manippur welcome the President's Rule,\u201d it states. It goes on to cite apprehensions on the recurrence of violence in the state.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Manipur-Violence-AP-1.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/manipur-nda-mlas-write-to-centre-9974164/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "93ee21f7282f4dfea3ea463ababe4de8",
+        "title": "Eye on Pasi vote, Tejashwi, Chirag bat for toddy exemption from liquor, corner Nitish",
+        "description": "Bihar be voted to power in the Assembly polls on October-November 2025, according to sources who said it would exclude toddy from the category of liquor for generations. The RJD has been trying to impress upon Nitish Kumar that he had got massive women support for his prohibition proposal. It is not clear whether or not toddy should be included in the legality of the country\u2019s law. But Nandish Kumar and Tejashwi Pra",
+        "urlToImage": "https://images.indianexpress.com/2025/04/tejashwi-1.png?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/pasi-vote-tejashwi-chirag-toddy-exemption-liquor-corner-nitish-9973970/",
+        "category": "political-pulse",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "d3d871492959416e88bdad1509e84dff",
+        "title": "Champions League | \u2018And then Yamal arrives..\u2019 : World Cup winner Thierry Henry hails Lamine Yamal amid comparisons with Messi and Ronaldo",
+        "description": "Lionel Messi and Cristiano Ronaldo scored a goal in the first leg of the Champions League semi-final against Inter-Milan at Olympic Stadium on Saturday. The 17-year-old has been named as the next best player in the football world for his side\u2019s 3-3 win over Inter-Mauricio. \u201cWe can talk about a lot of guys who are supposed to be on the throne and whatnot,\u201d said Henry.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Yamal-4.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/football/ucl-lamine-yamal-thierry-henry-messi-ronaldo-comparison-9977316/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "6f16b1a62cb840c291ea33bde52de011",
+        "title": "Transgender women footballers barred from playing in women\u2019s game in UK",
+        "description": "Transgender women will be barred from playing in England\u2019s women\u2019s football on June 1 if they are not registered transgender players, the Football Association has announced. The decision comes after a ruling that the term \u201cwoman\u201d refers only to a biological woman. It comes on the back of the ruling from Britain\u2019s supreme court that the word \u201cwoman\" in the Equality Act refers solely to an asexual woman.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Football-5.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/football/transgender-women-footballers-barred-womens-game-uk-9977260/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "dea9f98ae2014c3aaf42425fa231aa88",
+        "title": "\u2018Just planned to bowl my best and keep changing my lines\u2019: Yuzvendra Chahal reacts after taking first hattrick of IPL 2025",
+        "description": "Sri Lankan spinner Yuzvendra Chahal has snuffed out the Chennai Super Kings\u2019 playoff chances by snapping a hattrick against the MS Dhoni-led side in their first match of the season.&lt;/b&gt;...&rt;....&#8212; The Indian Premier League's Yuzvam Dube had a feeling that he would get a wicket in",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Chahal-10.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/pbks-vs-csk-yuzvendra-chahal-hattrick-ipl-2025-change-line-9977158/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "a46cad73d7f64e78b12f2fefa77a82a3",
+        "title": "\u2018With the PSL happening at the same time..\u2019: Punjab Kings coach Ricky Ponting on not finding replacements",
+        "description": "Punjab Kings have climbed to the second spot in the Indian Premier League (IPL) after beating Chennai Super Kings at Chepauk on Wednesday. The team are now fourth in the IPL with 13 points, while Shreyas Iyer and Glenn Maxwell were ruled out of the PSL due to a finger injury earlier this week. It is not yet clear what role they play in Pakistan Super league.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Ponting-2.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/psl-happening-ricky-ponting-punjab-kings-replacements-ipl-9977174/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "6fdbcdb1ef914dcf8dd3f857d50ae98e",
+        "title": "Glenn Maxwell ruled out of rest of IPL 2025 due to finger injury; Punjab Kings looking at replacement",
+        "description": "Glenn Maxwell has been ruled out of the remainder of the season due to a finger injury,\u201d said Punjab Kings captain Shreyas Iyer. The Indian Premier League champions are chasing their first IPL title this year, under captain Shahid Khan. It is a fresh setback for the Punjab Kings after they lost pacer Lockie Ferguson to \u2018serious injury\u2019 earlier this month. In the game against Chennai Super Kings on Wednesday evening,",
+        "urlToImage": "https://images.indianexpress.com/2025/05/GLENN-MAXWELL.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/cricket/glenn-maxwell-ruled-out-of-rest-of-ipl-2025-punjab-kings-9977086/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "fed0d9d0e02f457289ac8f603b70a8a4",
+        "title": "Pakistan javelin star Arshad Nadeem\u2019s Instagram account blocked in India",
+        "description": "Pakistan\u2019s Olympic gold medal winning javelin thrower Arshad Nadeem became the latest athlete from the neighbouring country to have his Instagram account blocked in India in the aftermath of the Pahalgam terror attack. Users attempting to access Nadeem\u2019s Instagram page from India are met with the message: \u201cAccount not available in India. This is because we complied with a legal request to restrict this content.\u201d Earlier in the week, former Pakistan cricketers Sho",
+        "urlToImage": "https://images.indianexpress.com/2024/08/Nadeem-3.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/sport-others/pakistan-javelin-arshad-nadeem-instagram-blocked-in-india-9977125/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "c0ddc4808f944e788d8f0617017291d4",
+        "title": "2026 Women\u2019s T20 World Cup final to be played at iconic Lord\u2019s; Check out full list of venues",
+        "description": "The ICC Women\u2019s T20 World Cup 2026 final will be held at Lord\u2019s Stadium on July 5th, the International Cricket Council has announced in announcing its plans for the 2016-2017 ICC women\u2019s cricket tournament to be held in London. It is one of seven venues confirmed for the 2017\u201318 ICC Ladies' T20 world cup final and will take place between June 12th and 24th.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/NZW.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/cricket/icc-women-t20-world-cup-2026-final-venue-lords-full-list-stadiums-9977043/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "ede747cada8a46f79f68ddd2cff04acd",
+        "title": "He\u2019s a more mature player now: Punjab Kings coach Ricky Ponting lauds captain Shreyas Iyer",
+        "description": "Punjab Kings coach Ricky Ponting has praised Shreyas Iyer after his 72-wicket win over Chennai Super Kings led to a 4\u20130 victory in the Indian Premier League last season, according to BBC Radio India's Daily Mail news agency on Thursday. The former Kolkata Knight Riders man is now more mature than ever before, and says he understands the game and game situations probably better than never before.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Iyer-27.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/ricky-ponting-punjab-kings-lauds-shreyas-iyer-mature-captain-9977093/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "43019de7386141aabad91c8362306897",
+        "title": "\u2018It hit me hard\u2019: Suryakumar Yadav on not getting selected for 2020-21 Australia tour",
+        "description": "India T20 cricket match, but he didn\u2019t get selected for the tour of Australia in 2020,\u201d SKY captain Suryakumar Yadav said on his JioHotstar Experience show at the event last month. \"It was an emotional knock because just a few days before, the team for the Australia tour was announced,\" he said on the TV show's survivor news programme.",
+        "urlToImage": "https://images.indianexpress.com/2025/01/SKY-20.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/cricket/suryakumar-yadav-not-getting-selected-for-2020-21-aus-tour-9977070/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "041b3afe17634d228279dc9f7a09939f",
+        "title": "\u2018Sometimes we\u2019ve been naive, a bit dumb\u2019: Mark Wood\u00a0on England players\u2019 comments to media",
+        "description": "England captain Mark Wood has said he is \u2018naive, a bit dumb\u2019 in the things he says in the press and that it looks like we\u2019re \u2018Billy Big Boots\u2019, above his station on Sky Sports Cricket's TV programme The Daily Mail reports: \u201cI don\u2019t particularly like that. We\u2019ve got to be respectful. (But) I\u2019m not kicking off at the other players.\u201d",
+        "urlToImage": "https://images.indianexpress.com/2025/03/Untitled-design-2-3.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/cricket/sometimes-weve-been-naive-a-bit-dumb-mark-wood-on-england-players-comments-to-media-9976891/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "534b3bfe6723441c839c73b38fbcdeae",
+        "title": "LeBron James says he doesn\u2019t have answer to questions about his future after LA Lakers exit NBA playoffs",
+        "description": "LeBron James has said he will break the NBA\u2019s long-term longevity record, which he shares with Vince Carter in an interview on Wednesday evening at the Los Angeles Lakers Sports Hall of Famer's website. \u201cI don\u2019t have the answer to that. Something I\u2019ll sit down with my wife and my support group and kind of just talk through it, and see what happens,\u201d he said.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/LEBRON-JAMES-AP.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/basketball/lebron-james-squestions-future-la-lakers-exit-nba-playoffs-9976880/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "97f1ecc6e8f446658aad273d4bed108b",
+        "title": "\u2018Talents like Lamine Yamal are born in 50 years\u2019: Inter coach Inzaghi impressed with Barca\u2019s teen star",
+        "description": "Inter Milan manager Simone Inzaghi praises teen star Lamine Yamal after the UEFA Champions League semi-final match against Barcelona on Wednesday, according to BBC Sport. \"He\u2019s the kind of talent who is born every 50 years, I had never seen him live and he really impressed me today,\" he said in a press conference at the club's home ground. He added: \"It\u2019s amazing how young people come around once in",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Lamine-Yamal.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/football/lamine-yamal-barcelona-vs-inter-milan-simone-inzaghi-ucl-semifinal-3-3-draw-9976612/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "444094c47d3c40d0afdd1a3b5d622ca7",
+        "title": "Andre Agassi\u2019s professional pickleball debut off to winning start as he partners teenage star",
+        "description": "Andre Agassi is now racking up wins in pickleball too! The eight-time Grand Slam champion, who retired from professional tennis in 2006, seems to have found a second wind in a similar-feeling-but-different sport: Pickleball! A day after he turned 55 years old, Agassi joined hands with an 18-year-old partner, Anna Leigh Waters, to claim a win in the mixed pro division at the US",
+        "urlToImage": "https://images.indianexpress.com/2025/05/ANDRE-AGASSI.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/sport-others/andre-agassi-pickleball-debut-winning-start-partner-teenage-9976690/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "c4483687d752463abc2e8e5cab2031eb",
+        "title": "Vignesh Puthur out of IPL 2025, Mumbai Indians sign Raghu Sharma as replacement",
+        "description": "The five-time champions have announced that Raghu Sharma is a replacement for Puthur, who made his IPL debut for the Mumbai franchise this season. He was born in Punjab\u2019s Jalandhar and has represented Punjab and Puducherry in domestic cricket at an economy rate of 9.08 per cent. This marks his maiden stint in the IPL. He joined MI at his base price of 30 lakhs from the RAPP list.",
+        "urlToImage": "https://images.indianexpress.com/2025/03/vignesh-puthur.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/vignesh-puthur-out-of-ipl-2025-mumbai-indians-sign-raghu-sharma-9976591/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "dad490ffff7249d98884a29b82770064",
+        "title": "\u2018I love chasing on any field, thrive under pressure\u2019: Shreyas Iyer after helping PBKS beat CSK by 4 wickets",
+        "description": "Indian Premier League champions Punjab Kings were back on winning ways after chasing down 191 to beat Chennai Super Kings at Chepauk in Wednesday\u2019s Indian Premier league match. It was Shreyas Iyer who controlled the innings well and guided PBKS to a four-wicket win with his 72 off 41. He added valuable partnerships with Prabhsimran Singh, Nehal Wadhera and Shashank Singh.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Shreyas-Iyer.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/love-chasing-shreyas-iyer-pbks-beat-csk-ipl-2025-9976531/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "c63f7853e1b44ca6af39b164d41756b9",
+        "title": "IPL Match Today, RR vs MI: Check out weather and pitch report, live cricket score streaming online and telecast details",
+        "description": "Rajasthan Royals' 14-year-old sensation Vaibhav Suryavanshi has been the talk of the cricketing world since his blistering 35-ball century against Gujarat Titans in their previous IPL game. The youngster will face his toughest challenge yet when he faces arguably the best bowler in the world at the moment in the form of Mumbai Indians\u2019 Jasprit Bumrah (who will be accompanied by the equally",
+        "urlToImage": "https://images.indianexpress.com/2025/04/RR-MI.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/cricket/rr-vs-mi-ipl-today-match-2025-live-cricket-score-streaming-online-pitch-weather-report-sawai-mansingh-stadium-9975452/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "338092c8a90447cf9bc14e8113c17eb5",
+        "title": "IPL 2025, RR vs MI LIVE Cricket Score: Rajasthan Royals opts to bowl first against Mumbai Indians",
+        "description": "Rohit Sharma\u2019s take-no-prisoners style of batting at the start of the innings in the T20 format has proven to be a high-risk, high-reward strategy in the powerplay overs. While it has led to Rohit getting out early in games, it has also yielded rich rewards when it clicks. Now, in an interview, Rohit has admitted that the strategy doesn\u2019t always pay off, but added that",
+        "urlToImage": "https://images.indianexpress.com/2025/05/IPL-2025_New_Match-50_1-01.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/cricket/mi-vs-rr-ipl-2025-live-cricket-score-playing-11-rajasthan-royals-mumbai-indians-today-match-updates-9975670/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "4548eade45694c4e90a8a6e625b1253d",
+        "title": "RR vs MI Predicted Playing 11, IPL Match Today: Rajasthan Royals vs Mumbai Indians players list, impact subs, full squads",
+        "description": "The Rajasthan Royals and Mumbai Indians will play a match against India in the IPL 2025, RR vs MI on Sunday. It's not clear how much time it takes for the teenager to get out of the game with his teammate Vaibhav Suryavanshi. But that doesn't mean he'll have to perform again when the lights get a little brighter against a side which boasts seasoned veterans like Ja",
+        "urlToImage": "https://images.indianexpress.com/2025/05/MI-RR.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/cricket/ipl-2025-match-today-rr-vs-mi-playing-11-dream11-team-prediction-impact-player-players-list-rajasthan-mumbai-9975597/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "3d54e6e1b01f485896e6eb8c785908f5",
+        "title": "\u2018Does Langer have brains?\u2019 Kris Srikkanth blasts LSG coach on Pant\u2019s batting",
+        "description": "Srikkanth has criticised LSG coach Justin Langer over a controversial episode of the Indian Super Giants' second game against Delhi Capitals in Mumbai on Saturday. The former India captain and selector said: \u2018I didn\u2019t understand. Why did he come to bat for just two balls?\u2019 Rishabh Pant came to bat at number 7 with two balls remaining in the innings which left all wondering about the reason for the wicket-keeper batsman coming",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Pant-Langer-Zaheer.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/does-langer-have-brains-srikkanth-blasts-lsg-coach-rishabh-pant-batting-9976085/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "7cc0665b3b6d4a3aad8a2bf8db4c1d2c",
+        "title": "IPL Points Table 2025, Orange Cap and Purple Cap after CSK vs PBKS: 2nd placed Punjab Kings eliminate Chennai Super Kings from playoffs race",
+        "description": "Kolkata Knight Riders scored a century as the Indian Premier League champions were eliminated from the IPL 2025 Playoffs race at the Chepauk on Wednesday evening, while CSK lost their fifth straight match to Royal Challengers Bengaluru after a high profile loss to Rajendra Chahal in the last two matches of the season. It is a new low for CSK as they have missed the playoffs in back to back seasons.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/CSK-PBKS-5.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/ipl-points-table-2025-orange-cap-purple-cap-after-today-ipl-match-csk-vs-pbks-match-49-chennai-super-kings-eliminated-punjab-kings-second-9975668/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "7fe1f513fa734f70949422eac86a5e60",
+        "title": "IPL 2025: End of road for CSK as Punjab Kings inflict more home misery at Chepauk",
+        "description": "Punjab Kings beat Chennai Super Kings 190 to go second in the IPL table at Dharamsala for their last three home matches, but they are still out of the tournament after just two points and a draw with Sri Lanka's top-ranked Indian side Sushil Bharatiya Janata on Wednesday. It is not yet clear how long it will take them to reach the semi-finals of this year's IPL.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/CSK-PBKS-4.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/end-of-road-for-csk-punjab-kings-inflict-home-misery-chepauk-9975622/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "71899526df094f9ea426e3eca95f5424",
+        "title": "Competitors as individuals, fastest as team: Gurindervir, Animesh, Manikanta, Amlan set 4x100m national record in 1st attempt",
+        "description": "The men\u2019s 4X100m relay team of Gurindervir Singh (Second from left), Manikanta Hoblidhar, Amlan Borgohain and Animesh Kujur, with coaches James Hillier, Athletics Director, Reliance Foundation (First from left) and Martin Owens, head coach at the second Indian Open Relay Competition in Chandigarh on Wednesday.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Relay-4.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/sport-others/gurindervir-animesh-manikanta-amlan-4x100-national-record-relay-9975588/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "d44fbfd5057b40b1a455a4e928020bba",
+        "title": "Chennai Super Kings become first team to be eliminated from IPL 2025 playoffs race",
+        "description": "Sam Curran scored a century as Chennai Super Kings beat Punjab Kings to reach the IPL playoffs in back to back editions of the World Cricket League (IPL) and play-offs for the first time since their defeat by Punjab Kings on 29 June. The Indian Premier League champions have been eliminated from the tournament after losing to Punjab Kings by 4 wickets at the start of the season, but they failed to qualify for the Play-Offs.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/CSK-13.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/chennai-super-kings-eliminated-ipl-2025-playoffs-race-9975532/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "f09e635cdde24e0ab6604b89f340fe04",
+        "title": "IPL 2025: Punjab Kings\u2019 Yuzvendra Chahal takes first hattrick of season in match vs Chennai Super Kings",
+        "description": "Indian Premier League captain Yuzvendra Chahal took the first hattrick of the season against Chennai Super Kings in the same over against Sri Lanka on Wednesday, according to CSK's chief executive and director of cricket at the World Cricket Organisation (WoC) news agency. The 26-year-old was caught by Deepak Hooda for just 2 runs off the third delivery before being caught by Anshul Kamboj for just 2.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Chahal-9.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/ipl-2025-yuzvendra-chahal-hattrick-pbks-vs-csk-9975361/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "a0ce952b580e4846beb8a26a8848dd54",
+        "title": "Can Arsenal come back against PSG in the UEFA Champions League?",
+        "description": "Arsenal\u2019s goalkeeper Gianluigi Donnarumma was infallible at the Emirates, but if they manage to beat him and score a goal, PSG\u2019s back-line could creak, and in front of the baying home crowd, they could melt. But there are multiple impediments Where do the goals arrive? Even without a centre forward or a phalanx of goal-happy forwards,...",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Arsenal-PSG.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/football/can-arsenal-come-back-against-psg-in-champions-league-9975321/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "1361da24534a4deca1ce8fa6bf583425",
+        "title": "ATM transaction fee revision: How much more will customers pay from May 1?",
+        "description": "India's Reserve Bank of India (RBI) has lowered its ATM interchange fee to Rs 23 per transaction from May 1 to 2025, the RBI has said in a statement. It will be effective from May 1, 2025 and customers will have to shell out more money for using Automated Teller Machines (ATMs) as the fees are increased by Rs 2 to 23 from Rs 21. The new charges will be levied on customers after they exhaust free",
+        "urlToImage": "https://images.indianexpress.com/2025/05/ATM.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/atm-transaction-charges-customers-pay-9976762/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "718cb2c472fc476e815a3534d2a1fa0d",
+        "title": "Green hydrogen gets official stamp as India notifies certification scheme, carbon credit rules",
+        "description": "India\u2019s carbon dioxide emissions, according to the Ministry of New and Renewable Energy (MNRE), which has introduced a green hydrogen standard for exports in 2023. The scheme is designed to measure, monitor, report, verify on-site, and certify green hydrogen based on a standard introduced by the Ministry in 2024. It will help ensure that the hydrogen produced in India truly qualifies as green. \u201cA lot of greenwashing tends to happen",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Pralhad-Joshi.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/green-hydrogen-official-stamp-india-certification-scheme-9976732/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "72c7fd5eaccd4d3b880c80e903ff0752",
+        "title": "Maharashtra Day Share Market Holiday 2025: Are BSE and NSE open or closed today, May 1? Check details here",
+        "description": "The Bombay Stock Exchange and the National Stock Exchange of India will be closed today, on Thursday, May 1, 2025, for the entire trading session, from 9:00 AM to 5:00 PM, in observance of Maharashtra Day. It's a significant Observance that is observed annually on May 1, marking the foundation of Mahaashtra as a separate and independent state from the division of the Mumbai division on May 1 1960.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Stock-Market_20250501033013.jpeg?w=450",
+        "url": "https://indianexpress.com/article/business/market/maharashtra-day-share-market-holiday-2025-bse-nse-open-closed-may-1-9976081/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "d496c70b8e7c4763bfdff202b9122231",
+        "title": "Opinion trading platforms: Why SEBI has warned investors against dealing with them",
+        "description": "India\u2019s Securities and Exchange Board has warned investors against dealing with \u2018opinion trading platforms\u2019 a new segment in the country\u2019s burgeoning online real money gaming and betting market, which allows users to win money by placing bets on the likelihood of a real-life event taking place. So far, such platforms \u2013 which are regulated in countries like the United States \u2013 largely went under the regulatory radar in India, but government agencies now appear to",
+        "urlToImage": "https://images.indianexpress.com/2024/01/betting-app.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/opinion-trading-platforms-sebi-warned-investors-9975981/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "ebb06c4fad244d5590992819676a3906",
+        "title": "Pahalgam attack aftermath: India closes airspace for all Pakistani aircraft",
+        "description": "Pakistan\u2019s West Asia, Europe, the UK, and North America's eastern region \u2013 but it is unlikely to be as significant as India\u2019s booming aviation sector. The ban will be in place till the early morning of May 24, as per the current Notam. On April 24, Pakistan had closed its airspace for Indian aircraft and planes operated, owned, or leased by Pakistani airlines and operators, including military flights.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/airline_20250430182003.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/aviation/pahalgam-attack-aftermath-india-shuts-airspace-for-pakistani-flights-in-tit-for-tat-move-9975582/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "a2b720574cf04717b284197766d08950",
+        "title": "Term deal for Russian oil off the table for now; US crude purchases to depend on commercial viability, says Indian Oil chairman Sahney",
+        "description": "Indian Oil Corporation (IOC), which is also India\u2019s largest refiner, is not in \u201cany active negotiations\u201d for a term deal with Russian oil majors like Rosneft, according to Indian Oil Chairman Arvinder Singh Sahney. \"We are not in any active negotiations...We are waiting and watching because every day things are changing. Every day the situation on tariffs, the crisis on sanctions are changing.\"",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Arvinder-Sahney.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/india-russia-oil-us-crude-purchases-indian-oil-chairman-arvinder-sahney-9975224/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "a4241f5e6134464ab52c9b8e59725e92",
+        "title": "Why Trump\u2019s auto tariff relief for Canada, Mexico leaves Indian component exporters in limbo",
+        "description": "U.S.-Mexico-Canada Agreement (USMCA), and not India,\u201d an industry executive tells the Indian Express, adding that a 25 per cent tariff will be applied to 15 per cent of the value of a US-assembled vehicle in the first year, and to 10 per cent in the second year for the next two years, according to a White House statement from the country\u2019s official website.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/trump-dancing.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/trump-auto-tariff-relief-canada-mexico-india-component-exporters-9975223/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "a3e4de7e1f87404483a5c801adaed6da",
+        "title": "Before Pahalgam, J&K planned ambitious tourism push to bring in revenue, jobs",
+        "description": "The J&K government has launched a comprehensive tourism policy in the wake of the terror attack in Pahalgam and the closure of 49 prominent tourist destinations in Jammu and Kashmir, as it seeks to boost tourism\u2019s contribution to the region\u2019s GDP by up to Rs 1.15 per cent over the next four to five years. It is also seeking to increase tourism's revenue from tourism for FY25 at Rs 50 crore.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/pahalgam-9.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/pahalgam-jk-ambitious-tourism-revenue-jobs-9974646/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "55a5db8601de485ab71fdd7ef187b746",
+        "title": "ITR notified by Income Tax department: Taxpayers can now disclose capital gains in ITR-1",
+        "description": "The I-T Department has notified income tax returns for assessment year 2025-26 (financial year 2024-25) which will enable the filing of returns in April 1st, 2025 and 26th. It is now possible to file details of capital gains under section 112A not exceeding Rs 1.25 lakh and does not have any brought forward loss or loss to be carried forward by taxpayers who have only long-term capital gains.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/ITR.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/itr-notified-by-income-tax-department-9974278/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "82c7ff5bb8da4e78bf04f052ba112754",
+        "title": "In US-China stand-off, why Washington is likely to blink first",
+        "description": "Trump\u2019s \u201cliberation day\u201d imposition of reciprocal tariffs against the rest of the world has been whittled down into a bilateral trade war with China, according to a report by the Financial Times. The US currently has in place a 145 per cent tariff on Chinese imports, along with restrictions on exports of \u2018rare earths\u2019 to the US. This pretty much makes the situation akin to an outright trade embargo between",
+        "urlToImage": "https://images.indianexpress.com/2025/04/US-China-Tariff-1.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/us-china-standoff-tariffs-trade-war-9974039/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "d4f09ad5d37f4949ae58560c59d15c5a",
+        "title": "How India can build 5,500 km of e-highways by 2027: National Highways for EV\u2019s Abhijeet Sinha explains",
+        "description": "India\u2019s approach to developing EV infrastructure has been misdirected from the start, with greater emphasis placed on setting up charging stations within cities\u2014where vehicle movement is less predictable\u2014rather than on highways, where fleet-operated electric buses, cars and vehicles aren\u2019t always in demand for electricity or other energy resources; but that\u2019s not the only way to do it. \u2018If we hadn\u2019t done this, there would be more of what happened over the last",
+        "urlToImage": "https://images.indianexpress.com/2025/04/highway.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/india-build-5500-km-e-highways-2027-ev-abhijeet-sinha-explains-9972739/",
+        "category": "business",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "a7bdd7e2021846c4b4bfd46c4637c97b",
+        "title": "Karnataka SSLC Results 2025 on May 2: What is the required marks to pass?",
+        "description": "The Karnataka School Examination and Assessment Board (KSEAB) will announce the results on May 2. According to an official statement, the KSEAB will declare the SSLC result 2025 Date and Time Announced Once declared, students will be able to view their results on the official websites at karresults.nic.in and kseab.karnatka.gov.in. In order to reach their mark sheet,",
+        "urlToImage": "https://images.indianexpress.com/2025/04/CUET-UG-5-2.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/kseab-karnataka-sslc-class-10-results-2025-passing-marks-supplementary-exam-date-reevaluation-retotalling-details-karresults-nic-in-kseab-karnataka-gov-in-9977075/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "3f09462ee5cd4eef94e154c085b6dbc1",
+        "title": "WBBSE Madhyamik Result 2025 on May 2: How to check WB Board Class 10 results at education.indianexpress.com?",
+        "description": "The West Bengal Board of Secondary Education (WBBSE) will declare the Madhyamik (10th Class Result 2025) results on May 2, 2025. Candidates who appeared in the West Bengal Mathematical Exam 2025 will be able to check their online scores on the official websites of the WB Board at wbbse.wb.gov.in and wbresults.nic.in.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Untitled-design-11-1.png?w=450",
+        "url": "https://indianexpress.com/article/education/wbbse-madhyamik-result-2025-how-to-check-wb-board-class-10-scorecard-education-indianexpress-com-9923002/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "11fcf22122464714b85c3bc1e5aa8fd9",
+        "title": "University of Western Australia to set up its first India campus, eyes Mumbai as hub",
+        "description": "The University of Western Australia (UWA), ranked among the world\u2019s top 100 universities, has submitted an application to the University Grants Commission (UGC) to establish multiple branch campuses in India, with Mumbai selected as the primary hub. UWA is set to become the first Australian Group of Eight (Go8) university \u2013 often likened to the Ivy League \u2013 to set up a physical campus in India.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/UWA-plans-to-be-the-First-Australian-University-to-Launch-Campus-in-Mumbai-Photo-via-official-website.png?w=450",
+        "url": "https://indianexpress.com/article/education/study-abroad/university-of-western-australia-to-set-up-its-first-australian-campus-in-india-mumbai-study-abroad-undergraduate-courses-fee-details-9977349/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "04e638d1c5ff4a629b65cd2a9ca330c7",
+        "title": "UPSC Exam Calendar 2025: Indian Economic Services, Combined Medical Services exam schedule out",
+        "description": "Candidates who are registered to appear for these upcoming exams can now access and check the detailed timetables from the official website of UPSC at upsc.gov.in. The Union Public Service Commission (UPSC) has announced the examination schedules for the Indian Economic Service (IES), Indian Statistical Service (ISS), and Combined Medical Services (CMS) Examinations 2025 Schedule The IES and ISS examinations are scheduled over three days, from June 20 to",
+        "urlToImage": "https://images.indianexpress.com/2025/04/UPSC-building.jpeg?w=450",
+        "url": "https://indianexpress.com/article/education/upsc-exam-calendar-2025-economic-services-ies-combined-medical-services-cms-statistical-services-exam-schedule-admit-card-link-upsc-gov-in-9976792/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "c7ecb55c1ff544eb87300898fb94bead",
+        "title": "Over 60,000 students register to appear for NEET (UG) exam in Haryana",
+        "description": "A total of 162 examination centres have been established across Haryana, the state's chief secretary has said in a joint statement to the NTA on Wednesday. The meeting was attended by Director General of Police Shatrujeet Kapur, Director, Higher Education, Rahul Hooda and senior officials from the National Testing Agency (NTA) as part of a review of the state\u2019s preparedness for the exam.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/exam.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/60000-students-register-neet-ug-haryana-9977159/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "142a038c4d194cc2adbd581e99b7cccc",
+        "title": "Karnataka SSLC 10th Result 2025 Live Updates: KSEAB to be declare SSLC results tomorrow",
+        "description": "The Karnataka School Examination and Assessment Board will on May 2 announce KSEAB Class 10th board examination results. Students can check their results available at the official karresults.nic.in by entering their roll number and date of birth. A total of 8,96,447 students appeared for the SSLC exams, including 4,61,563 male and 4,34,884 female students in the board exams this academic year.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/KA-10-RESULT-LIVE.png?w=450",
+        "url": "https://indianexpress.com/article/education/kseab-karnataka-sslc-2025-out-live-updates-karnataka-board-declares-10th-result-at-karresults-nic-in-link-passing-marks-exam-1-9956827/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "aed42a72d3d54d569350f62e81df2bec",
+        "title": "Telangana SSC Results 2025: Supplementary exams from June 3",
+        "description": "The TS SSC results announced by the Directorate of Government Examinations, Telangana on April 30. Students who appeared can check their marks memo from the official website\u2013Results.bse.telangana.gov.in and results.bsetelangansa.org. Candidates who did not pass the March 2025 exams are advised to pay the examination fee through their respective schools by May 16. Recounting costs Rs 500 per subject and can be",
+        "urlToImage": "https://images.indianexpress.com/2025/04/exam-file.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/telangana-ssc-results-2025-supplementary-exams-from-june-3-9976403/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "e0049ff6bbe5488ba0423b0394e9c7fb",
+        "title": "NEET-UG: NTA identifies, reports Instagram, Telegram channels \u2018claiming to have access\u2019 to Q paper",
+        "description": "The National Testing Agency has identified 106 Telegram and 16 Instagram channels that are \u201cengaged in spreading misinformation and attempting to mislead students,\u201d according to NTA sources. It has been set up as part of measures that the NTA and Ministry of Education are taking this year to ensure that the exam goes smoothly on May 4th, 2025. A portal is set up for users to report suspicious activities under three categories \u2013 unauthorised websites/social media accounts",
+        "urlToImage": "https://images.indianexpress.com/2025/05/NEET-admut-card.jpeg?w=450",
+        "url": "https://indianexpress.com/article/education/neet-ug-nta-identifies-reports-instagram-telegram-channels-claiming-to-have-access-to-q-paper-9977025/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "153b171cf5204518b569e44bf54b3862",
+        "title": "TS EAMCET Answer Key 2025 to be out this week, raise objections till May 6",
+        "description": "TS EAMCET Answer Key 2025: The Telangana State Council of Higher Education (TSCHE) has officially announced the release schedule for the TS EAPCET 2025 Agriculture & Pharmacy (A&P) stream provisional answer key. Candidates who appeared for the examination will be able to view the response sheets, master question papers, and the preliminary answer key starting from May 4, 2025 (12 pm) to May 6, 2025 12 pm.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/CUET-UG-1-2.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/ts-eamcet-answer-key-2025-on-eapcet-tshe-nic-in-9976973/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "fddaefe46b1a43b69aa4e0165d2203ca",
+        "title": "WBBSE Madhyamik Result 2025 Live Updates: Bengal Board Madhyamik result on May 2",
+        "description": "The president of the Ad-hoc committee, West Bengal Board of Secondary Education (WBBSE) will announce the Madhyamik results on May 2 at 9 am. Students who took their WBBSE class 10th board exams can now download their results from the official website, wbbse.wb.gov.in. The WB Madhiamik result will be available for download at education.indianexpress.com.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Result-Templates.png?w=450",
+        "url": "https://indianexpress.com/article/education/wbbse-madhyamik-result-2025-live-updates-wb-class-10-marksheets-out-direct-link-wbbse-wb-gov-in-sarkari-results-9924662/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "06b239d8395a408ba7a919cfa938d3fa",
+        "title": "Karnataka SSLC Result 2025 Date and Time: Class 10 results to be declared on May 2",
+        "description": "The Karnataka School Examination and Assessment Board (KSEAB) will announce class 10 results on May 2 at 11:30 am in karresults.nic.in by entering their roll number and date of birth, according to the official KSEAB website: http://www.ksab.com/index.php?id=1&gt;3&cf=0&lt;/p>",
+        "urlToImage": "https://images.indianexpress.com/2025/04/karnataka-board-exams_b18fa9.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/kseab-karnataka-sslc-10th-result-date-time-may-2-karresults-nic-in-9951857/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "cd7ee6bd9a0448acbd1adc33c907d826",
+        "title": "NEET UG 2025: Things candidates need to avoid in last few days",
+        "description": "Don\u2019t compare your NEET UG preparation. Practice what you already know. Do not compare yourself to other people. Be prepared for the exam. Stay away from junk foods. Avoid taking bulky notes on the day of the NEET U exam. Take time to calm yourself down before the exam, and don\u2019t discuss questions with other people in the exam hall. Remain calm and watch out for any mistakes or mishaps.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Untitled-design-31.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/neet-ug-2025-exam-day-tips-prep-strategies-nta-admit-card-last-minute-9976787/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "2869456377484539afcd73280662c808",
+        "title": "BSEB Class 10 Special, Compartment Exams 2025: Check complete exam schedule here",
+        "description": "The BSEB has announced the exam dates for Class 10 Special and Compartment exams 2025, which will begin from May 2 and continue till May 7. It is expected that practical exams for Intermediate will be conducted on May 14 and 15, 2025. According to the Board, 62,273 students have registered for the compartment and special exams; out of the total, 7,621 candidates will appear for special exams, while 54,652 students have planned to take their compartment examination",
+        "urlToImage": "https://images.indianexpress.com/2025/04/CUET-UG-19.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/bihar-board-bseb-matric-class-10-special-compartment-exams-exam-timetable-out-sarkari-results-9976485/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "c28c1b34026d49538625dae5e98c37a2",
+        "title": "MBSE Mizoram HSSLC Results 2025: Date, time announced at mbse.edu.in",
+        "description": "The Mizoram Board of School Education (MBSE) will announce Class 12 results for the Science, Arts, and Commerce streams on May 6, 2025. The MBSE Higher Secondary School Leaving Certificate (HSSLC) results will be declared at the MBse headquarters in Chaltlang, Aizawl, as well as at its regional office in Lunglei. Students can check and download their class 12 results 2025 from the official websites, mb",
+        "urlToImage": "https://images.indianexpress.com/2025/05/mizoram-hsslc-class-12-results.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/mbse-mizoram-hsslc-results-2025-date-time-out-sarkari-results-mbse-edu-in-9976431/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "7d8525d7c6cc43c7972545e612c47a46",
+        "title": "JEECUP 2025: UPJEE Polytechnic extends registration deadline",
+        "description": "JEECUP has extended the UP Joint Entrance Examination (UPJEE) application dates. Students can register for UPJEE JEE till May 10 from the official website\u2013 jeecup.admissions.nic.in. The exam will be conducted between May 20 and May 28. It is held to shortlist candidates for polytechnic and post-diploma in industrial safety. The candidates will be able to apply for any four of the groups \u2013",
+        "urlToImage": "https://images.indianexpress.com/2024/07/3-2-4.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/jeecup-2025-upjee-polytechnic-extends-registration-jeecup-admissions-nic-in-9976527/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "d19a57da6e9440d79e12e9ae245cc9d3",
+        "title": "IIT Kanpur sets up AI School with Wadhwani Foundation",
+        "description": "India\u2019s Institute of Technology (IIT Kanpur) has launched a new school in New Delhi to help students with research and development. It is expected to be inaugurated by Prime Minister Narendra Modi in 2026, according to a MoU signed by the Prime Minister. The institute will host five early research centers and intelligent systems, which will offer student, doctoral and doctoral programs starting in 2025. A joint venture between IIT Bombay and Ausand",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Untitled-design-29.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/iit-kanpur-sets-up-new-ai-school-with-wadhwani-foundation-jee-main-2025-advanced-9976305/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "9f6230e346fa45a38dabaed18d7433d3",
+        "title": "CBSE Board Class 10th, 12th Result 2025 LIVE Updates: CBSE, MP Board results out this week?",
+        "description": "Students who are dissatisfied with their marks can apply for re-evaluation or verification of their answer sheets through cb, which is available on the official websites at mpbse.nic.in and mpresults.ni.in. The results will be released in the first week of May 2025 by CBSE Board Class 10th, 12th Result 2025.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/board-results-2025-live-cbse-gseb-hbse-scorecards.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/cbse-gseb-mp-board-class-10th-12th-result-2025-live-inter-matric-marksheet-direct-link-sarkari-results-mpbse-nic-in-9976195/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "59da16ad693f42e29cd4e245f09e3d48",
+        "title": "COMEDK UGET Admit Cards 2025: Hall ticket released at comedk.org",
+        "description": "Karnataka's medical, engineering, and dental colleges have released hall tickets for the UGET 2025 in a bid to help them prepare for their entrance exam on the second Sunday of May. (COMEDK) has been conducting its entrance exam every year. The schedule had to be altered and scheduled to be May 10 - due to conflict of date with other national level examinations. It is not clear how many hall tickets will be available online.",
+        "urlToImage": "https://images.indianexpress.com/2025/02/COMEDK-Admit-Cards-out-2025-1.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/comedk-uget-admit-card-2025-hall-ticket-out-comedk-org-9815281/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "add54c53d84040bda9a917c3aa1cf4d6",
+        "title": "CBSE Board Class 10th, 12th Results 2025 Live: Results likely in second week of May",
+        "description": "CBSE Board 10th, 12th Class Result 2025 Date: Live: The Central Board of Secondary Education (CBSE) will release Class 10th and Class 12th results in May. Observing past trends, CBSE Class 10-th and class 12th scorecards have been released in the second week of May for the last two years. Around 42 lakh students appeared for the CBSE board exams in the 2024-25 session.",
+        "urlToImage": "https://images.indianexpress.com/2025/05/cbse-results-board-2025.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/cbse-board-10th-12th-result-2025-inter-matric-date-time-marksheets-direct-link-sarkari-results-cbse-gov-in-9976153/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "855a25864a9e41a59a1c5bb9c79da986",
+        "title": "WBBSE Madhyamik Result 2025: Date, time to check & download Class 10th scorecards at wbbse.wb.gov.in",
+        "description": "West Bengal Board of Secondary Education (WBBSE) will announce the results for Class 10th Madhyamik 2025 on Friday, May 2 at 9 am. The results will also be available at education.indianexpress.com. You can register here for free updates. WB West Bengal Result 2025: Last year, on May 2, the last year, the West Bengal board of secondary education (WBSSE) announced the results",
+        "urlToImage": "https://images.indianexpress.com/2025/04/west_bengal_class_10_students_writing_exams-1.jpeg?w=450",
+        "url": "https://indianexpress.com/article/education/west-bengal-madhyamik-result-2025-date-time-check-download-class-10th-scorecards-wbbse-wb-gov-in-wbresults-nic-in-sarkari-results-9963806/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "b1da4bf80c404143b635bf8ba8bfaa36",
+        "title": "Music, theatre, and kathak: How ISC toppers from Bengaluru balanced studies with extracurricular activities",
+        "description": "Karnataka has achieved a pass percentage of 99.63 per cent in the Indian School Certificate (ISC) Class 12 exams, surpassing the national average 99.02 per cent on the ISC Class 12 examinations. The study of snakebite-related deaths touch nearly 60,000 annually, predominantly among farmers, and snakebites can cause significant disabilities. \u201cI believe anti-venom technology can be vastly improved,\u201d said Pinto.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/karnataka-toppers.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/music-theatre-kathak-isc-toppers-bengaluru-studies-extracurricular-9975286/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "e2cc801cb0304d30bb4c2d8984e3ffe1",
+        "title": "Tripura board exams results: 86.53% aced Madhyamik, 79.29% pass Class 12",
+        "description": "The Tripura Board of Secondary Education (TBSE) announced the results of Madhyamik (Class 10) and higher secondary (Class 12) board examinations, with 86.53 per cent and 79.29 per cent pass percentages respectively. Last year, 25,350 students appeared for the higher secondary examinations. Out of 111 candidates who appeared for this segment, 73 passed. In the Madrasa Fazil-arts category, 15 out",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Exam_c5000a.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/tripura-board-exams-results-madhyamik-class-12-9975164/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "444f402af13b4a349ca06cc057fe3938",
+        "title": "KEAM Answer Key 2025 Out at cee.kerala.gov.in, raise objections by May 3",
+        "description": "The Kerala Engineering, Architecture, and Medical Entrance Examination (KEAM) 2025 was conducted from April 23 to 29, in computer-based test (CBT) mode. Candidates can now access the shift-wise and day-wise KEAM answer key PDFs on the official website, cee.kerala.gov.in. The window to challenge the KEAM 2025 answer keys will remain open until May 3rd.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Answer-key-Photo-AI-Generated-via-Freepik.jpeg?w=450",
+        "url": "https://indianexpress.com/article/education/kerala-cee-keam-answer-key-2025-out-at-cee-kerala-gov-in-how-to-raise-objection-direct-link-to-download-9974953/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "3df7384ffe1d457796d51f602a899942",
+        "title": "IIT Madras opens admissions for online BS programmes, no JEE score required",
+        "description": "The Indian Institute of Technology Madras has opened admissions for its online BS Degree Programs in Data Science and Applications and Electronic Systems, which are designed to be flexible and accessible, with no age restrictions or seat limits on students who have completed Class 12. It is open to all students who complete Class 12, with no adult restrictions or seats at the age of 18 or over. (See http://www.iitm.ac.in)",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Untitled-design-28-3.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/iit-madras-opens-admissions-for-online-bs-programmes-no-jee-score-required-9974274/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "957d959fbd384a71ba1cb56aef9a224f",
+        "title": "NEET UG 2025 Admit Card out at neet.nta.nic.in: Here\u2019s how to download",
+        "description": "Output cards for admission to undergraduate medical and allied courses (NEET UG) 2025 are now available on the official website at neet.nta.nic.in. The exam will be conducted in offline pen and paper mode from 2 pm to 5 pm across the country in 552 cities AND 14 Cities abroad. It was for the first time that this application process was not extended. The NEET 2025 exam pattern has been changed to the pre-",
+        "urlToImage": "https://images.indianexpress.com/2025/04/kerala-class-12-1-2.jpg?w=450",
+        "url": "https://indianexpress.com/article/education/neet-ug-admit-card-2025-direct-link-to-download-neet-nta-nic-in-exam-date-admit-card-link-exam-pattern-how-to-donwload-9962839/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "38aafb70e73a44648b4b9c7b5360f11f",
+        "title": "Shreyas Iyer\u2019s batting tweaks: Ravi Shastri and Ricky Ponting rave",
+        "description": " Shreyas Iyer\u2019s front leg has been a twinkling balletic limb of substance this IPL season . The open stance, the rapid jerks of the bat-swing while still awaiting the ball-release, the angle of that bat and the timing of its pick-up have all been rightly focussed on by the television cameras . It helped in the way he walloped Sam Curran and Pathirana in the game against Chennai Super Kings . Ricky Pont",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Iyer-28.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/shreyas-iyers-batting-tweaks-ravi-shastri-and-ricky-ponting-rave-9977425/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "6777609565a446459866020fbf58adba",
+        "title": "\u2018He really enjoys his cricket. That\u2019s something that comes naturally to him\u2019: Rahul Dravid on IPL sensation Vaibhav Suryavanshi",
+        "description": " 14-year-old Vaibhav Suryavanshi became the youngest cricketer to hit a T20 hundred with his knock of 101 runs for Rajasthan Royals against Lucknow Super Giants at Jaipur on Monday earlier this week . Former Indian head coach and now Royals coach Rahul Dravid sees the youngster\u2019s biggest strength as him enjoying his cricket . He has worked really hard and practices very hard. That's something that comes naturally to him,",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Suryavanshi-2.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/rahul-dravid-vaibhav-suryavanshi-enjoys-cricket-rr-9977484/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "999e192abb414a2fa539b71c738e8cb7",
+        "title": "TS SSC Advanced Supplementary Exam 2025 from June 3: Check complete schedule here",
+        "description": " The Telangana SSC Advanced Supplementary Exams 2025 will be conducted from June 3 . Out of 4,96,374 regular candidates who appeared, 4,60,519 students successfully passed the exam this year . Earlier, on April 30, the board declared the SSC exam results on the official websites results.bse.gov.in, results.bsetelangana.org and bse.co.uk.org .",
+        "urlToImage": "https://images.indianexpress.com/2025/05/The-Telangana-SSC-Advanced-Supplementary-Exams-2025-will-be-conducted-from-June-3-Photo-AI-Generated-via-Freepik.png?w=450",
+        "url": "https://indianexpress.com/article/education/tsbie-tgbie-ts-ssc-advanced-supplementary-exam-2025-class-10-retest-exam-date-complete-schedule-9977442/",
+        "category": "education",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "a397b81804b34cfebc3400459c18baaa",
+        "title": "Room with a view: At 2026 Asian Games, athletes to stay at \u2018Floating Village\u2019 on board luxury cruise liner",
+        "description": " Aichi-Nagoya Asian Games organisers decided against constructing a brand-new Athletes Village to cut costs . Instead of the usual brick-and-mortar buildings that make the Athletes\u2019 Village, approximately 4,600 athletes will be housed in a luxury cruise liner that will be docked at Japan\u2019s shipping hub Nagoya . The floating Games Village will be based at the Kinjo Pier in Nagoya Port and will include a balcony with an ocean view .",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Asian-Games.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/sport-others/2026-asian-games-athletes-floating-village-luxury-cruise-liner-9977579/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "72d92c6e976f49fab4b114c44ad3b133",
+        "title": "In unique chess battle, Gukesh, Arjun Erigaisi, Divya Deshmukh to lead India vs the USA",
+        "description": " Checkmate: USA vs India is a never-before-seen team chess event that pits two of the most successful nations in the sphere of 64 squares . The exhibition event will be held on October 4 this year in front of a live audience of 2,500 fans at the Esports Stadium Arlington in Texas . To give the American team a \u2018home advantage\u201d all five players representing the USA will play with white pieces while the organizers have said they are exploring the prospect of playing a",
+        "urlToImage": "https://images.indianexpress.com/2025/05/ARJUN-ERIGAISI-AND-GUKESH.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/chess/gukesh-arjun-erigaisi-divya-deshmukh-india-vs-usa-chess-battle-9977185/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "55be9a76f4d142cd81be50b54ca6f1ea",
+        "title": "Rajasthan Royals seamer Sandeep Sharma ruled out of IPL 2025",
+        "description": " Rajasthan Royals seamer Sandeep Sharma ruled out of IPL with fractured finger . Right-arm pacer continued bowling despite the injury and the franchise will look for a replacement \u201cactively\u201d The Punjab Kings have also lost Glenn Maxwell and Lockie Ferguson earlier this month . Captain Sanju Samson has not played since going off injured last month . He had scored 224 runs in 7 matches at an impressive average of 37.33 and a strike rate of 143.59 .",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Sandeep-4.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/rajasthan-royals-seamer-sandeep-sharma-ruled-out-of-ipl-2025-9977544/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "51720e5fe12e474dad2449d8cd353759",
+        "title": "How CSK\u2019s reluctance to change, their auction failures, and dependence on veterans shoved them out of IPL 2025",
+        "description": " Stephen Fleming was asked if CSK's structured way of constructing an innings \u2013 start slow, pick up pace and end with a flourish \u2013 had become outdated . The usually composed Kiwi lost his cool after their defeat to Royal Challengers Bengaluru . Since that defeat, Chennai have plummeted to several lows this season . They have become the first team to be eliminated from the IPL in six matches . But given how other franchises have benefitted from investing in uncapped gems who are winning games",
+        "urlToImage": "https://images.indianexpress.com/2025/05/CSK-14.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/csk-out-ipl-playoffs-race-auction-failures-dependence-veterans-9977530/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "f0c880fbe5d744d3b54e4a217418adf6",
+        "title": "Which AR Rahman song is on Virat Kohli\u2019s listening loop these days and what is its Dhoni connection?",
+        "description": " Royal Challengers Bangalore put up an Instagram post with Virat Kohli on Thursday . He is seen talking about a song that he is listening on a loop these days . It's a song from the 2023 Tamil movie \u2018Pathu Thala\u2019 (10 heads), starring Silambu Arasan and the music was composed by AR Rahman . The lyrcis to that particular song was penned by Vivek and sung by Sid Sriram .",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Kohli-94.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/ar-rahman-song-virat-kohli-loop-ms-dhoni-connection-9977499/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "85d2f2c811c44c678f799ee59a603f9f",
+        "title": "RR vs MI: How Vaibhav Suryavanshi fell for a duck by a swinging ball from Deepak Chahar",
+        "description": " Vaibhav Suryavanshi was dismissed for a zero against Mumbai Indians . Former India coach Ravi Shastri had asked for more time to make a proper judgement on the batsman . He also noted how bowlers will use \u2018short ball\u2019 tactics against him in future . How he fares against short balls, swinging deliveries and seaming balls will be keenly watched in the games to come . The former India coach said there will be 'lots of",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Vaibhav-2.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/rr-vs-mi-vaibhav-suryavanshi-fell-for-duck-deepak-chahar-9977657/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "4f6d510e389642a3945cc08e212b8bf1",
+        "title": "Sudirman Cup: \u2018Anna, am nervous\u2019 Anupama Upadhyaya and Sathish Karunakaran overcome panic to win on their India international debuts",
+        "description": " India fielded a team in all five events \u2013 two singles and three doubles of the Sudirman Cup \u2013 who were all born in or after 2000 . Anupama Upadhyaya (World No 44) and Sathish Karunakaran (world No 11) won on their India debuts . The result was inconsequential - with India having lost to Denmark and Indonesia, similarly 4-1 and out of quarters contention. And this is no definitive revival \u2013 Indian bad",
+        "urlToImage": "https://images.indianexpress.com/2025/05/Anupama-2.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/badminton/sudhirman-cup-anupama-upadhyaya-sathish-karunakaran-debut-wins-9977716/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "1241749bd9744b5bb6efceb3630bef83",
+        "title": "Rajasthan Royals out of IPL playoffs contention after crushing defeat to Mumbai Indians",
+        "description": " Mumbai Indians beat Rajasthan Royals by 100 runs to reach the playoffs . Chennai Super Kings were second team to be eliminated from the race after Chennai Super King . Chasing a steep 217 runs set by MI, RR went 5 down inside powerplay in chase . They lost opener Vaibhav Suryavanshi for a duck and Yashasvi Jaiswal for 13 to Trent Boult . Jasprit Bumrah struck in the same over as Shimron H",
+        "urlToImage": "https://images.indianexpress.com/2025/05/RR-MI-2.jpg?resize=450,253",
+        "url": "https://indianexpress.com/article/sports/ipl/rajasthan-royals-out-of-ipl-playoffs-contention-mumbai-indians-9977634/",
+        "category": "sports",
+        "date": "May 01 2025"
+      },
+      {
+        "id": "5513c67b0fb746be98c8b8a0becb1daa",
+        "title": "Caste census: Rahul claims \u2018made Modi govt implement our vision\u2019. Will it cut ice as BJP raises heat?",
+        "description": "Congress has announced a caste census for the first time in 11 years, saying it is \u201cthe first step towards a new development paradigm\u201d, but criticising the government\u2019s decision to hold a vote on whether to allow caste enumeration as a \u2018political tool\u2019 (on reservations) to be used by the opposition party and its political opponents at the centre of the Constitutional Assembly. It was also said that some states had done caste surveys",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Untitled-design-45.png?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/caste-census-modi-rahul-gandhi-congress-bjp-9975120/",
+        "category": "political-pulse",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "1819cb885e544e4b94dc79148651f3c0",
+        "title": "As Modi govt announces caste census, how a UPA bid collapsed, amid claims of \u2018inaccuracies\u2019",
+        "description": "The Congress and BJP, then the main Opposition party, did not have a clear-cut position on caste census but a section of the OBC leaders within the parties were in favour. But the Home Ministry under P Chidambaram argued that including caste in the list of questions during the Census exercise would yield inaccurate results owing to logistical problems. \u201cThe operational difficulties are so many that there is a grave danger that the basic integrity of the Census",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Untitled-design-44.png?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/modi-govt-caste-census-rahul-gandhi-modi-9974853/",
+        "category": "political-pulse",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "3514afcee19f463b85a88c63e7a6b936",
+        "title": "JNU is one chapter in ABVP\u2019s growth story from Ladakh to Goa, with BJP\u2019s rise clearing the way",
+        "description": "RSS student wing ABVP in the JNUSU elections are better news for the organisation than it appears on the surface,\u201d said Pushkar Mishra, director of the Rampur Raza Library and a senior BJP leader in Uttar Pradesh. \u201cThe socio-historical forces of the RSS students\u2019 unions are worsened by the socio-history of the country. The socio-political forces of SSS are better...",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Untitled-design-43.png?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/jnu-abvp-ladakh-goa-bjp-elections-9974634/",
+        "category": "political-pulse",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "3baf571797e34cd09bd58378cd02dc6d",
+        "title": "Haryana DSP \u2018apologises\u2019 to BJP leader, Saini govt faces heat from Opposition",
+        "description": "Violent video of a senior police officer apologising to a BJP leader in Haryana is causing a stir in the country's capital, Haryana on Monday. The video has gone viral, with the Opposition sharing it widely. It was directed by Prime Minister Narendra Modi as part of an anti-Semitism campaign against the government's decision to flag off a \"Drug-Free Haryana Cyclothon 2.0",
+        "urlToImage": "https://images.indianexpress.com/2025/04/nayab-singh-saini-4.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/haryana-dsp-apologises-bjp-leader-saini-govt-opposition-9974582/",
+        "category": "political-pulse",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "c3666eb31d8e40998f199d6c7246833c",
+        "title": "Can Digha temple cancel out Murshidabad violence? Mamata Banerjee will be praying for that today",
+        "description": "Mamata Banerjee will inaugurate a Jagannath temple in Purba Medinipur district on the occasion of Akshaya Tritiya\u2019s \u201cAyodhya moment\u201d at the time of communal violence in Murshidabad, West Bengal state news agency reports. The CM and her senior party leaders participate in the rituals and events preceding the opening of the temple on Wednesday.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/digha-mamata.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/digha-jagannath-temple-murshidabad-violence-mamata-banerjee-9973722/",
+        "category": "political-pulse",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "06c25e7145544a77af46f4b0671e7ae7",
+        "title": "Today in Politics: In aftermath of Pahalgam attack, PM Modi to chair series of meetings",
+        "description": "Prime Minister Narendra Modi will chair a series of meetings to review security preparedness in the wake of the April 22 Pahalgam terror attack that left 26 people dead, PM has told PTI on Wednesday. The Cabinet Committee on Security (CCS) will meet for the second time since the terror attack. At its meeting two days after the attack, the CCS had reviewed the overall security situation of the country and put the forces on alert, vowing that the perpetrators",
+        "urlToImage": "https://images.indianexpress.com/2025/04/modi-pahalgam-meeting.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/pahalgam-attack-pm-modi-meetings-rahul-gandhi-waqf-9973708/",
+        "category": "political-pulse",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "9e802b64b9cd4f67a9097bc5512475b4",
+        "title": "Pahalgam heat on Muslim MLA of Bhopal, BJP leader stands by \u2018threat to his life\u2019",
+        "description": "Arif Masood, the thief, and his followers who oppose our religion, is facing death threats in the wake of the Pahalgam attack at Bhopal Central on Tuesday. The latest has been issued publicly by a BJP leader and close supporter of Union minister Jyotiraditya Scindia. On Tuesday, multiple videos emerged of Krishna Ghadge speaking about the terror attack, while addressing a Hanuman",
+        "urlToImage": "https://images.indianexpress.com/2025/04/bhopal-mla-muslim.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/pahalgam-heat-muslim-mla-bhopal-bjp-leader-threat-life-9973010/",
+        "category": "political-pulse",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "f00d6e754c1345ed8ce60ab15dbc6e6e",
+        "title": "Pakistan stock market dips sharply amid escalating tensions with India",
+        "description": "India\u2019s escalation in diplomatic and military tensions with India has led to fears of a possible attack on the country, analysts have said at a press briefing by Prime Minister Narendra Modi over the latest terror attack. It is not clear how many people were killed or injured in the attack, but it is unclear how many are believed to have been killed during the bombings that killed 26 people. The stock exchange-100 index fell more than 2,000 points",
+        "urlToImage": "https://images.indianexpress.com/2025/04/pakistan-stock-market.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/pakistan-stock-market-dips-sharply-escalating-tensions-india-pahalgam-9974163/",
+        "category": "business",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "5c80e38a0eff46c3b711f6da599b4490",
+        "title": "From Carlsberg beer to Porsche sports cars: How US reciprocal tariffs are affecting global brands",
+        "description": "U.S. quarter, with Q1 earnings expected to reach a record high in the next two years, according to an analysis of its quarterly earnings report on Tuesday. The company\u2019s Q1 profit narrowed to 1.9 billion Swedish krona (1 US$ is equal to 9.65 kronosa) in Q1 FY25 from 4.7 billion kronesa in the year-ago period. German carmaker Volkswagen reported better than expected earnings in the",
+        "urlToImage": "https://images.indianexpress.com/2025/04/trump_294937.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/donald-trump-reciprocal-tariffs-us-global-brands-carlsberg-beer-porsche-sports-cars-9973940/",
+        "category": "business",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "2447ec4c919544b19caee0c69dee0bfa",
+        "title": "Tariff talks with India going great, think will have deal: Trump",
+        "description": "US President Donald Trump has said that tariff negotiations with India are \u201ccoming along great,\u201d and he thinks the two countries will strike a trade deal, reports the Wall Street Journal of the New York Times. (Click to read about Trump's remarks at the White House in Washington, D.C.), on Tuesday. (See the full article here.) CNN's John F. Kennedy contributed to this report. You can help Wikipedia by contributing to Wikipedia.",
+        "urlToImage": "https://images.indianexpress.com/2025/03/Modi-and-trump.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/tariff-talks-with-india-modi-going-great-think-will-have-deal-trump-9973818/",
+        "category": "business",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "85be0e1c6d4947d2bc060d87f9091603",
+        "title": "Private sector capex rose 66% over last four years; seen 25% lower in FY26",
+        "description": "Private sector enterprises are likely to see a 25.5 per cent drop in their capex intentions for the ongoing financial year 2025-26 to Rs 4.89 lakh crore, the inaugural \u2018Forward-Looking Survey on Private Sector Capex Investment Intentions\u2019 released by the National Statistics Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI) on Tuesday showed an increase of 66.3 per cent in aggregate capex during 2021-22 to 20",
+        "urlToImage": "https://images.indianexpress.com/2025/04/capex-generic.jpg?w=450",
+        "url": "https://indianexpress.com/article/business/prolonged-uncertainty-may-cause-private-sector-to-put-capex-plans-on-hold-9973114/",
+        "category": "business",
+        "date": "April 30 2025"
+      },
+      {
+        "id": "971fd34708754aa99b7a8c5a624c5c1f",
+        "title": "Bengaluru civic corporation set to be split, no early end to 10-year wait for polls",
+        "description": "The city of Bengaluru is set to be restructured in 2023, with the government expected to split it into three smaller corporations by 2026 or early 2026 as part of the Government\u2019s plan to split the BBMP from its existing wards and develop gram panchayats around it. It has been given a deadline of 120 days to earmark the boundaries of the borough.",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Bangalore-pulse.jpg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/bengaluru-civic-corporation-split-10-year-polls-9972928/",
+        "category": "political-pulse",
+        "date": "April 29 2025"
+      },
+      {
+        "id": "1c98beec3f924dd5a0658a7eecb6e25b",
+        "title": "\u2018Centre should think about Maoists\u2019 peace talks offer\u2019: Andhra ex-Home Minister who led 2004 dialogue with rebels",
+        "description": "The Maoists were posing as the saviour of the oppressed, and they have been fighting social hierarchies for land rights while turning a blind eye to the law of the land. It is imperative to understand the history of holding those talks with them as they were socially rooted. When we held the talks, the Communist Party of India (Marxist-Leninist) People\u2019s War Group and Maois Communist Centre",
+        "urlToImage": "https://images.indianexpress.com/2025/04/Jana-Reddy-.jpeg?w=450",
+        "url": "https://indianexpress.com/article/political-pulse/centre-maoists-peace-talks-offer-andhra-ex-home-minister-k-jana-reddy-2004-dialogue-rebels-9972951/",
+        "category": "political-pulse",
+        "date": "April 29 2025"
+      }
+    ]
+  }
+}
