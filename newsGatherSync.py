@@ -1,3 +1,4 @@
+import copy
 import requests
 from bs4 import BeautifulSoup
 import uuid
@@ -107,19 +108,24 @@ def fetch_html_source(url, retries=3):
 
 @timed_run
 def News_main(category_urls):
+    news_array_container = []
     for url in category_urls:
         html_cont = fetch_html_source(url)
         if html_cont:
-            parse_html_for_news(html_cont)
+            news_array_container.extend(parse_html_for_news(html_cont))
         else:
             print("[Warning] Skipping parse due to empty content.")
+    return news_array_container
 
 @timed_run
 def get_news():
     temp_cat = [IEurl + i for i in cat]
-    News_main(temp_cat)
-    if(news_data[0]):
-        return news_data
+    
+    
+    return_news_value =  News_main(temp_cat)
+    if (return_news_value is not None and len(return_news_value) >0):
+        return return_news_value
+    
 
 if __name__ == "__main__":
     get_news()

@@ -20,6 +20,7 @@ from newsGatherSync import get_news
 from db import Initial_db_operation,db_to_json
 from summarize import runAI
 from newspaper import fulltext
+from extrafunc import news_data
 
 def temp(newsList):
     for news in newsList:
@@ -31,6 +32,8 @@ async def index():
     #Step 1 to curate news and extract basic info
     # new_data_initial = await get_news() #returns an array with selected news and its data
     # new_data_initial = requests.get("https://qwiknewsbackend.onrender.com/newsapi").json()["data"]["news_list"]
+    new_data_initial = []
+    
     new_data_initial = get_news()
     #step 2 from the basic info extract news article for summary
     for news in new_data_initial:
