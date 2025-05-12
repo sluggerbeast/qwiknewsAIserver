@@ -154,15 +154,20 @@ def runAI(newslist):
     newsList = [(x["fullnews"], x["id"]) for x in newslist]
     device = "cpu"
     print(f"len of list {len(newsList)}")
+    bat = 5
     if(len(newsList)>=30):
         model_choice = "flan-t5-small"
         device = "gpu"
     elif (len(newsList)<30 and len(newsList)>=20):
         model_choice = "flan-t5-base"
-        device = "cpu"
+        device = "gpu"
+        bat=3
     elif (len(newsList)<20):
         model_choice = "distilbart"
         device = "gpu"
+        bat = 3
+    model_choice = "flan-t5-small"
+    device = "gpu"
     printdebug(F"{model_choice},{device}")
     # #model_choice = "distilbart"
     # model_choice = "flan-t5-small"
@@ -174,13 +179,18 @@ def runAI(newslist):
         model=model,
         device=device,
         model_choice=model_choice,
-        batch_size=5
+        batch_size=bat
     )
     summary_flag = True if len(summaries)>0 else False
     summary_list = []
+    bad_summaries = []
     for x,y in zip(summaries,newsList):
-        print(x,y[1])
-        summary_list.append((x,y[1]))
+        # quality control step
+        if(len(x.split())<20):
+            bad_summaries.append((x,y[1]))
+        else:
+            print(x,y[1])
+            summary_list.append((x,y[1]))
     update_summary(summary_list)
     
 

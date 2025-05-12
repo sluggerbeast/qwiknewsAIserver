@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 import sqlite3
 import requests
 import os
@@ -95,7 +95,7 @@ def update_summary(NewsList):
     connection = sqlite3.connect(db_path)
     cursor = connection.cursor()
     
-    printdebug("nside updating summaryI")
+    printdebug("inside updating summaryI")
     query = "UPDATE NEWS SET DESCRIPTION = ? WHERE ID = ?"
     cursor.executemany(query,NewsList)
     connection.commit()
@@ -103,14 +103,28 @@ def update_summary(NewsList):
     
         
     printdebug("all news summary added")
+
+import platform
+
 def date_to_words(date_str):
-    # print(date_str)
     try:
-        date_obj = datetime.strptime(date_str, "%Y-%m-%d")
-        return date_obj.strftime("%B %d %Y")  # e.g., "May 01, 2025"
+        date_obj = datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
+        now = datetime.now()
+        diff = now - date_obj
+
+        # OS-safe day format: %-d (Unix) or %#d (Windows)
+        day_format = "%-d" if platform.system() != "Windows" else "%#d"
+        formatted_date = date_obj.strftime(f"{day_format} %B %Y")
+
+        if date_obj.date() == now.date() and diff < timedelta(hours=24):
+            hours = max(1, int(diff.total_seconds() // 3600))
+            return f"{formatted_date} - {hours} hr{'s' if hours > 1 else ''} ago"
+        else:
+            return formatted_date
+
     except Exception as e:
         print(f"Date conversion failed: {e}")
-        return date_str
+        return "Invalid date"
 
 def db_to_json():
     connection = sqlite3.connect(db_path)
@@ -140,14 +154,23 @@ def db_to_json():
         print(len(newsList))
         writeNewsToJsonFile({"data": {"category_list":cat,"news_list": newsList}})
     summary_flag = False
+def get_category_news(category,limit=10):
+    connection = sqlite3.connect(db_path)
+    cursor = connection.cursor()
+    query = f"SELECT ID,TITLE,DESCRIPTION,URLTOIMG,URL,CATEGORY,DATE FROM NEWS WHERE CATEGORY = ? ORDER BY DATE DESC LIMIT ?"
+    cursor.execute(query,(category,limit))
+    val = cursor.fetchall()
+    connection.close()
+    return val
 
 def check_duplicate(obj):
     # print("checking duplicate")
-    Connection = sqlite3.connect(db_path)
-    cursor = Connection.cursor()
+    connection = sqlite3.connect(db_path)
+    cursor = connection.cursor()
     
     cursor.execute("SELECT URL FROM NEWS WHERE URL = ?",(obj["url"],))
     val = cursor.fetchone()
+    connection.close()
     # print(val[0])
     if val is None:
             return False 
@@ -155,11 +178,30 @@ def check_duplicate(obj):
         return True
     else:
         return False
+def reset_db():
+    connection = sqlite3.connect(db_path)
+    cursor = connection.cursor()
+    cursor.execute("DELETE FROM NEWS")
+    connection.commit()
+    connection.close()
+    print("db content cleared")
+
+def db_event(get_op,getSetCol,compareCol,values):
+    connection = sqlite3.connect(db_path)
+    cursor = connection.cursor()
+    query = ""
+    if(get_op.lower() =="update"):
+        query = f"{get_op} NEWS SET {getSetCol.upper()} = ? WHERE {compareCol.upper()} = ?"
+    if(get_op.lower()=="select"):
+        pass
+    cursor.execute(query,values)
+
     
 
 if __name__ == "__main__":
     # get_newslist_for_ai()
     summary_flag = True
-    db_to_json()
+    # db_to_json()
+    reset_db()
 # create_connection()
 

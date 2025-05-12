@@ -1,14 +1,25 @@
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, Query
 from fastapi.middleware.cors import CORSMiddleware
 import asyncio
+
+from typing import List
 # from sum import news_gathering, process_all_texts,summary_mobilebert,fetch_news
 from extrafunc import timed_run,printdebug,load_news_data
-from db import get_newslist_for_ai
-from index import index
+from db import date_to_words, get_category_news, get_newslist_for_ai
+# from index import index
 import os
 script_dir = os.path.dirname(os.path.abspath(__file__))
 newsjson_path = os.path.join(script_dir, "news.json")
 app = FastAPI()
+from testindex import index
+from FeedNewsGather import category_urls, categories
+import time
+from typing import Dict, Tuple
+
+# Cache format: {tuple(ids): (timestamp, data)}
+CACHE: Dict[Tuple[str, ...], Tuple[float, dict]] = {}
+
+CACHE_TTL = 60  # seconds
 
 origins = ["*"]
 
@@ -97,9 +108,46 @@ def res():
     
 
 @app.get("/news")
-async def root():
-    
-    return res() 
+async def root(ids: List[str] = Query(default=categories)):
+    key = tuple(sorted(ids))  # use sorted tuple to make cache key consistent
+    now = time.time()
+
+    # Return from cache if available and not expired
+    if key in CACHE:
+        timestamp, cached_data = CACHE[key]
+        if now - timestamp < CACHE_TTL:
+            print("Returning from cache")
+            return cached_data
+        else:
+            del CACHE[key]  # remove expired entry
+
+    # Otherwise, fetch from DB
+    print("Fetching fresh data from DB")
+    category_news_array = []
+    for id in ids:
+        news = get_category_news(id, category_urls[id][1])
+        if news:
+            for arr in news:
+                category_news_array.append({
+                    'id': arr[0],
+                    'title': arr[1],
+                    'description': arr[2],
+                    'urlToImage': arr[3],
+                    'url': arr[4],
+                    'category': arr[5],
+                    'date': date_to_words(arr[6]),
+                })
+
+    result = {
+        "data": {
+            "category_list": ids,
+            "news_list": category_news_array
+        }
+    }
+
+    # Save to cache
+    CACHE[key] = (now, result)
+    return result
 #This function is loading news data from news.json and sending as response.
 #File news.json is updated with latest news in a different func.
 

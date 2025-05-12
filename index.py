@@ -36,8 +36,8 @@ async def index():
     
     new_data_initial = get_news()
     #step 2 from the basic info extract news article for summary
-    for news in new_data_initial:
-       news["fullnews"]=""
+    # for news in new_data_initial:
+    #    news["fullnews"]=""
     
     print(new_data_initial[0])
     filtered_newslist  = filter_duplicates(new_data_initial)
